@@ -26,17 +26,12 @@ eg
 
 #### Gossip 
 
- <p> I was recently at a training and actually we can work on any platforms. However due to my own interest to know more about [Kali Linux](https://kali.org), I installed it on my host machine and then I messed up with some commands, cause I am a lazy pig and didn't even care to create a separate user (one of the best practice). After which I messed up. </p>
+ I was recently at a training and actually we can work on any platforms. However due to my own interest to know more about [Kali Linux](https://kali.org), I installed it on my host machine and then I messed up with some commands, cause I am a lazy pig and didn't even care to create a separate user (one of the best practice). After which I messed up.
 
- <p>
+
 Circumstances hijacked all my possiblities to work on either Kali or uBuntu, therefore, I was left with no option but to work on Window Machine (It is Window 10 though). Although I don't have much positive impression of Window but I found it not bad as I had thought. This semi blog is writing on Window using [Visual Studio Code](https://code.visualstudio.com/download). I had used [Atom](https://atom.io/) Editor in prior and its look and feel is quite similar.  
-</p>
 
-<p>
 After googling and youtubing (not sure whether such words are there), I was able to find the solution to fix it. I lost the link from where I got the solution but it was on stackoverflow. I am quite sure you will find it if you wish to check it.
-</p>
 
-<p>
 Anyway, that's all. If you were speculating why this guy is making making huge deal; it is because I am practicing Mark Down command on VSCode :)
 
- </p>
