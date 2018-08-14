@@ -10,19 +10,19 @@ eg
 
 - grub rescue> ```set boot=(hd0,msdos5)```
 - grub rescue> ```set prefix=(hd0,msdos5)/boot/grub```
-- grub rescue> ```insmod normal```  ### if this shows an error message we need to redo the steps
+- grub rescue> ```insmod normal```  ~~~if this shows an error message we need to redo the steps~~~
 
 
 - grub rescue> ```set boot=(hd0,msdos3)```
 - grub rescue> ```set prefix=(hd0,msdos3)/boot/grub```
-- grub rescue> ```insmod normal```  ### if this shows an error message we need to redo the steps
+- grub rescue> ```insmod normal```  ~~~if this shows an error message we need to redo the steps~~~
 
 
 
 - grub rescue> ```set boot=(hd2,msdos2)```
 - grub rescue> ```set prefix=(hd2,msdos2)/boot/grub```
-- grub rescue> ```insmod normal```  ### if this shows an error message we need to redo the steps
-- grub rescue> ```normal```   ### It will automatically reboot and show you the Boot Option Menu :)
+- grub rescue> ```insmod normal```  ~~~if this shows an error message we need to redo the steps~~~
+- grub rescue> ```normal```   ~~~It will automatically reboot and show you the Boot Option Menu~~~ :)
 
 #### Gossip 
 
