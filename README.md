@@ -2,10 +2,11 @@
 
 ###
 
-Hello all! 
+Hello there! 
 
-I am not sure a seasonal developer. I am security enthusiast person. The code I used in this folder was copied from [Tutorials Point](https://www.tutorialspoint.com/); one of my favourite site to visit and learn. I am trying to read the flow of code and try to hack the same. 
+I am not a seasonal developer therefore, I borrowed many code from [Tutorials Point](https://www.tutorialspoint.com/); one of my favourite site to drop-by and learn.
 
-Apart from that, I am going to update any good resources I find to make the sysadmin's life easier. Because it is one of my dream in my "Bucket List"! I am hopeful that this resource could be beneficial to me and newbies :) 
+I named this folder sysadmin, because I fancy about this job quite sometime now. Therefore, I thought it is important for me to take many small steps :)
 
-This will content LAMP Stack, WordPress, Server, Firewall, Hardening etc.. 
+I am very thankful for [Tibetan Computer Resource Centre](http://tibet.net) for arranging many advance trainings! 
+
